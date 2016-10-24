@@ -5,6 +5,6 @@
     
         public class BuildNumber
         {
-            public static String value = "JXplorer (build JXv3.3.1.2 2016-10-24 17:07 CEST)";
+            public static String value = "JXplorer (build JXv3.3.1.2 2016-06-05 12:05 AEST)";
         }
         
